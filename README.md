@@ -2,7 +2,6 @@
 
 linux configs and utility scripts I got used to
 
-
 ## vim
 
 Vim configs are stored in .vimrc file.
@@ -21,4 +20,10 @@ Contains sample scripts that i regulary use. I usually install this dir to ~/too
 
 * vimdiffwrap.sh -- wrapper to use vim as svn difftool
 * vimmergewrap.sh -- wrapper to vim as svn mergetool
+
+## SVN
+
+Copy the .subversion/config to ~/.subversion/config.
+
+This will mainly set up vimdiff and vimwrap as svn standart diff\merge tools
 
