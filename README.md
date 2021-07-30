@@ -27,7 +27,14 @@ Copy the .subversion/config to ~/.subversion/config.
 
 This will mainly set up vimdiff and vimwrap as svn standart diff\merge tools
 
+## ssh
+
+.ssh/config should be copie to ~/.ssh
+
+It contains typical remotes.
+
 ## bashrc
 
 **.bashrc** file contains remainders of which additional setups needs to be made to comfortly work.
 They should not be copied directly, rather accurately appended (modyfing actual paths) by hand
+
